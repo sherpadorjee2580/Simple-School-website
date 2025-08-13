@@ -1,0 +1,40 @@
+.faculty {
+  padding: 80px 0;
+}
+.faculty-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+.faculty-title {
+  font-size: 35px;
+  font-weight: 600;
+}
+.faculty-viewBtn {
+  padding: 10px 15px;
+  border-radius: 5px;
+  border: 1px solid black;
+  background-color: transparent;
+}
+.faculty-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.faculty-box img {
+  border-radius: 50%;
+}
+.faculty-box .title {
+  font-size: 14px;
+  color: rgb(74, 74, 74);
+}
+.faculty-boxContainer {
+  display: flex;
+  gap: 70px;
+  max-width: 700px;
+  flex-wrap: wrap;
+}
