@@ -3,7 +3,7 @@ import "./Hero.css";
 
 function Hero() {
   return (
-    <div className="hero-container">
+    <div className="hero">
       <div className="hero-content">
         <h1>Empowering Minds, Building Futures</h1>
         <p>
