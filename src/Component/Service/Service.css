@@ -33,6 +33,8 @@
 .service-boxContainer {
   display: flex;
   gap: 70px;
-  max-width: 600px;
+  max-width: 800px;
   flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
