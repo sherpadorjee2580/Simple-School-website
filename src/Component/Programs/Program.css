@@ -19,9 +19,8 @@
   justify-content: center;
   align-items: center;
   gap: 100px;
-  max-width: 700px;
+  max-width: 800px;
   flex-wrap: wrap;
-  background-color: aquamarine;
   padding: 20px 20px;
 }
 .program-box {
@@ -32,7 +31,6 @@
   gap: 5px;
   max-width: 155px;
   flex-wrap: wrap;
-  border: solid 1px black;
 }
 .program-box .name {
   font-size: 14px;

@@ -8,7 +8,7 @@ const Nav = () => {
         <h2 className='logo'>DIT</h2>
         <ul className="navbar-links">
           <li><a href="#">Home</a></li> 
-          <li><a href="#">Recipes</a></li> 
+          <li><a href="#">Service</a></li> 
           <li><a href="#">About Us</a></li>
           <li><a href="#">Contact</a></li>
         </ul>
